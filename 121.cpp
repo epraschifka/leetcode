@@ -40,6 +40,5 @@ public:
         return max_diff;
 
         // overall, O(n) time and O(1) space
-        //
     }
 };
