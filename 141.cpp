@@ -1,5 +1,5 @@
 // DONE
-// list has been 0 and 10^4 nodes
+// list has between 0 and 10^4 nodes
 // -10^5 <= Node.val <= 10^5
 
 // idea: use two pointers with two different traversal speeds.
