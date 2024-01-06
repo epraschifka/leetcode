@@ -6,7 +6,7 @@ class Solution
 public:
     std::vector<int> findDisappearedNumbers(std::vector<int> &nums)
     {
-        // given an array of n integers
+        // given an array of n integers,
         // where each integer is between 1 and n inclusive
         // return all integers between 1 and n
         // that are not in the array.
